@@ -1,0 +1,13 @@
+JDK (java development kit) --> is a software development environment used for developing and 
+running Java applications and applets. it comprises java runtime environment which is just used 
+to run java programs.JDK is platform dependant
+		 
+		                              WHILE
+		                              
+JVM (Java virtual Machine)--> is a virtual machine that enables a 
+computer to run Java programs as well as programs written in other languages, it converts 
+java byte code into machine language. JVM is not platform independant
+		
+		
+		
+	}
